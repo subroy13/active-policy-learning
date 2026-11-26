@@ -1,0 +1,13 @@
+# Python and Jupyter
+/.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Downloaded data and generated results
+/data/raw/
+/data/sim2/
+/data/figures/
+
+# macOS
+.DS_Store
